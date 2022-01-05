@@ -1,0 +1,14 @@
+{
+  "name": "Design",
+  "version": "1.0.0",
+  "description": "Design for architecture",
+  "main": "script.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss style.css -w "
+  },
+  "author": "Phuad",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
